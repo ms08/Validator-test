@@ -31,6 +31,7 @@ class Author
      *      min = 5,
      *      minMessage = "Your first name must be at least {{ limit }} characters long")
      */
+
     private $name;
 
     /**

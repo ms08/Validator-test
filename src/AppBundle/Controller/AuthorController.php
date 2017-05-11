@@ -14,6 +14,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;use Symfony\Component
  */
 class AuthorController extends Controller
 {
+  
     /**
      * Lists all author entities.
      *
